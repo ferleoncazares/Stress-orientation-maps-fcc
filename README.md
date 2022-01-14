@@ -16,6 +16,13 @@ Open the **SOM.m** file and modify the input parameters to your needs. The loadi
  
 All calculations are performed within the **m24.m** function, which outputs the resulting stress states for individual slip systems and for each {111} slip plane. These results are then plotted into four different stress orientation maps:
 * mS vs mE
+<img src="./SOM1.png" height="300">
+
 * |mS| vs mE
+<img src="./SOM2.png" height="300">
+
 * tau vs phi \[-30 deg, 30 deg\]
+<img src="./SOM3.png" height="300">
+
 * 3D: |mS| vs mE vs mN
+<img src="./SOM4.png" height="300">
