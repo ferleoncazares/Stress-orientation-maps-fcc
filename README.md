@@ -1,6 +1,8 @@
 # Stress orientation maps - fcc
 Plots of 'stress orientation maps' for face-centred cubic crystals and tables with the relevant data. The derivation and interpretation of this work has been published in: [F.D. León-Cázares and C.M.F. Rae. A stress orientation analysis framework for dislocation glide in face-centred cubic metals. Crystals, 10 (2020) 445](https://www.mdpi.com/2073-4352/10/6/445). Please cite this publication if you benefit from this repository.
 
+[![View Stress orientation maps - fcc on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/105240-stress-orientation-maps-fcc)
+
 ## Requirements
 Coded in Matlab R2021a. There is no need for additional packages.
 
